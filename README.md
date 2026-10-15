@@ -1,10 +1,10 @@
 # DeBoniz's GitHub
 
-Hello! I'm **Francesco De Bonis**, a Master's student in **Computer Engineering** at the **University of Salerno (UniSa)**, where I also earned my Bachelor's degree in *Computer Engineering*. 
+Hello! I'm **Francesco De Bonis**, and I am a Master's student in **Computer Engineering** at the **University of Salerno (UniSa)**, where I also earned my Bachelor's degree in *Computer Engineering*. 
 
-I have a strong passion for **Artificial Intelligence, Computer Vision, Data Analysis, and Software Engineering**. Driven by curiosity and out-of-the-box thinking, I love experimenting with innovative approaches and applying machine learning and software design to solve real-world problems. During my internship at **A.I. Tech Srl**, I built an end-to-end safety helmet detection pipeline for real-time video surveillance.
+I'm deeply fascinated by **Artificial Intelligence, Computer Vision, Data Analysis & Software Engineering**. Thanks to the curiosity and out of the box thinking, I'm always attracted by trying out new and innovative things using machine learning or software engineering to solve the real world problems. I had a great internship experience at **A.I. Tech Srl** where I created a complete end to end pipeline to detect safety helmets for real time video surveillance. 
 
-Beyond coding, my past experience as a tourist entertainer helped me develop strong **public speaking, teamwork, and leadership** skills, allowing me to thrive in dynamic, high-pressure environments.
+In the meantime, thanks to my previous experience as tourist entertainer I gained excellent skills of **public speaking, team work & leadership** that allowed me to enjoy dynamic high pressure environments.
 
 ---
 
