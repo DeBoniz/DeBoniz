@@ -38,6 +38,7 @@ Beyond coding, my past experience as a tourist entertainer helped me develop str
 - **[MobileAppEpiTrack](https://github.com/DeBoniz/MobileAppEpiTrack)**: Modular mobile application prototype built with JavaScript, React Native, and Expo.
 - **[WebAppHowTo](https://github.com/DeBoniz/WebAppHowTo)**: Full-stack tutorial community platform built with PHP, JavaScript, SQL, HTML/CSS.
 - **[PhoneBook](https://github.com/DeBoniz/PhoneBook)**: Java desktop application engineered with full UML modeling and collaborative Git workflows.
+- **[SAD-Project-](https://github.com/DeBoniz/SAD-Project-)**: Modular Java desktop Music Player developed with **Agile Scrum** methodology, leveraging GoF Design Patterns, SOLID principles, and JUnit automated testing.
 
 ---
 
